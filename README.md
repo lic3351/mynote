@@ -28,7 +28,8 @@ npm install gitbook-cli -g
 * 3、进入https://calibre-ebook.com/download 下载calibre，添加配置calibre安装路径（如C:\Program Files\Calibre2）到 path。该工具用来导出pdf epub格式文档。
 
 
-4、打开 gitbook
+* 4、打开 gitbook
+
 ![](/assets/2018-11-25_222019.jpg)
 
 选择library path为 文档目录
