@@ -33,9 +33,11 @@ npm install gitbook-cli -g
 ![](/assets/2018-11-25_222019.jpg)
 
 选择library path为 文档目录
+
 ![](/assets/2018-11-25_222225.jpg)
 
 新建一本book
+
 ![](/assets/2018-11-25_222428.jpg)
 
 ## 将gitboot与github关联
