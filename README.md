@@ -52,3 +52,8 @@ npm install gitbook-cli -g
 
 ![](/assets/2018-11-25_223157.jpg)
 
+## 转成在线文档
+
+```
+gitbook serve
+```
