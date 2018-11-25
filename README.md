@@ -25,7 +25,9 @@ markdown + git + gitbook 制作在线文档。
 npm install gitbook-cli -g
 ```
 
-* 3、进入https://calibre-ebook.com/download 下载calibre，添加配置calibre安装路径（如C:\Program Files\Calibre2）到 path。
+* 3、进入https://calibre-ebook.com/download 下载calibre，添加配置calibre安装路径（如C:\Program Files\Calibre2）到 path。该工具用来导出pdf epub格式文档。
+
+
 
 
 
