@@ -36,3 +36,6 @@ npm install gitbook-cli -g
 
 新建一本book
 ![](/assets/2018-11-25_222428.jpg)
+
+## 将gitboot与github关联
+
