@@ -54,9 +54,16 @@ npm install gitbook-cli -g
 
 ## 转成在线文档
 
+生成在线文档
 
 ```
 gitbook serve
+```
+
+* 导出pdf
+
+```
+gitbook pdf
 ```
 
 
