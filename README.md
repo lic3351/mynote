@@ -39,3 +39,8 @@ npm install gitbook-cli -g
 
 ## 将gitboot与github关联
 
+* 1、 在github中新建空白的仓库
+![](/assets/2018-11-25_222746.jpg)
+
+* 2、将仓库的url与gitbook publish 关联
+
