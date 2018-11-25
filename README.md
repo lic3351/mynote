@@ -44,11 +44,13 @@ npm install gitbook-cli -g
 ![](/assets/2018-11-25_222746.jpg)
 
 * 2、将仓库的url与gitbook publish 关联
+
 ![](/assets/2018-11-25_222929.jpg)
 
 ![](/assets/2018-11-25_223102.jpg)
 
 在gitbook中点击public
+
 ![](/assets/2018-11-25_223413.jpg)
 
 ![](/assets/2018-11-25_223157.jpg)
