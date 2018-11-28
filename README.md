@@ -76,21 +76,3 @@ gitbook pdf
 
 
 
-```
-@RestController
-@RequestMapping("/account")
-public class AccountController {
-@CrossOrigin
-@GetMapping("/{id}")
-public Account retrieve(@PathVariable Long id) {
-// ...
-}
-
-@DeleteMapping("/{id}")
-public void remove(@PathVariable Long id) {
-// ...
-}
-}
-```
-
-
